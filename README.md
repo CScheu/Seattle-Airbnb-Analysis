@@ -16,7 +16,7 @@ For this project, I was interested in using the Seattle Airbnb dataset to better
 
 1. Which factors influence the rental price (in Seattle)?
 2. How do prices change over the months?
-3. What is the most popular neighbourhood in Seattle based on bookings?
+3. What is the most popular neighbourhood in Seattle based on listings?
 
 
 
