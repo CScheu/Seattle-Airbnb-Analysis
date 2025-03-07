@@ -27,7 +27,7 @@ A single notebook is available here to showcase work related to the above questi
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@christianscheu96/exploring-the-seattle-airbnb-market-price-influences-seasonal-trends-and-popular-neighbourhoods-04689ac09e0b).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
